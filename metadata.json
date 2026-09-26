@@ -1,0 +1,6 @@
+{
+  "name": "Agri Bio Cameroun",
+  "description": "Plateforme agricole camerounaise mettant en relation directe les producteurs locaux et les acheteurs pour dynamiser les marchés et réduire les pertes post-récolte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
